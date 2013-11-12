@@ -1,0 +1,33 @@
+{
+  "name": "marcrecord",
+  "version": "0.1.0",
+  "author": "Jared Camins-Esakov <jcamins@cpbibliography.com>",
+  "description": "Convenience class for handling MARC-in-JSON objects",
+  "contributors": [
+    {
+      "name": "Jared Camins-Esakov",
+      "email": "jcamins@cpbibliography.com"
+    }
+  ],
+  "bin": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biblionarrator/marcrecord.git"
+  },
+  "main": "lib/marcrecord",
+  "keywords": [],
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "chai": "1.7.x",
+    "jshint": "2.1.x",
+    "mocha": "1.11.x"
+  },
+  "bundledDependencies": [],
+  "license": "AGPLv3",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
